@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DZ6_dialog</string>
+    <string name="buttonfon">Выбрать фон</string>
+    <string name="message">Хотите пыбрать фон?</string>
+    <color name="redColor">#FF0000</color>
+    <color name="yellowColor">#FFFF00</color>
+    <color name="greenColor">#00FF00</color>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зелёный</string>
+</resources>
